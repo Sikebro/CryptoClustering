@@ -2,9 +2,9 @@
 Module 19 Challenge
 
 <h2>Instructions</h2>
-<li>1. Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.</li>
-<li>2. Load the crypto_market_data.csv into a DataFrame.</li>
-<li>3. Get the summary statistics and plot the data to see what the data looks like before proceeding.</li>
+1. Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
+2. Load the crypto_market_data.csv into a DataFrame.
+3. Get the summary statistics and plot the data to see what the data looks like before proceeding.
 
 <h2>Prepare the Data </h2>
 <ul>
