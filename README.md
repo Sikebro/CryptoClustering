@@ -58,7 +58,7 @@ Use the elbow method on the PCA data to find the best value for k using the foll
 <li>Create a dictionary with the data to plot the Elbow curve.</li>
 <li>Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.</li>
 <li>Answer the following question in your notebook:</li>
-</ul>
+<ul>
 <li>What is the best value for k when using the PCA data?</li>
 <li>Does it differ from the best k value found using the original data?</li>
 </ul>
