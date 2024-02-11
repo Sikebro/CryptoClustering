@@ -15,7 +15,7 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 The first five rows of the scaled DataFrame should appear as follows:
 
-[The first five rows of the scaled DataFrame](https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png)
+![image](https://github.com/Sikebro/CryptoClustering/assets/89745480/b762906a-1979-413a-a055-557e04aa3c5a)
 
 Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to find the best value for k using the following steps:
@@ -47,7 +47,8 @@ Create a new DataFrame with the PCA data and set the "coin_id" index from the or
 
 The first five rows of the PCA DataFrame should appear as follows:
 
-[The first five rows of the PCA DataFrame](https://static.bc-edx.com/data/dl-1-2/m19/lms/img/PCA_DataFrame.png)
+![image](https://github.com/Sikebro/CryptoClustering/assets/89745480/8fa218e7-747e-409c-b0be-b6ad39b00fe2)
+
 
 Find the Best Value for k Using the PCA Data
 Use the elbow method on the PCA data to find the best value for k using the following steps:
